@@ -1,0 +1,1 @@
+This repository contains the basic Python tutorials I completed from FreeCodeCamp's video: https://www.youtube.com/watch?v=rfscVS0vtbw
